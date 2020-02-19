@@ -1,2 +1,0 @@
-# Yui
-Symphony/React
